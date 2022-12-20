@@ -3,10 +3,9 @@
     status = auto
     branch = auto
 [user]
-	name = Brent O'Connor
-	email = epicserve@gmail.com
+	name = Joshua Patterson
+	email = jpatterson@canopyteam.org
 [core]
-    editor = code --wait
     excludesfile = ~/.gitignore
 [alias]
     st = status
@@ -31,8 +30,6 @@
     gitnub-path = /usr/local/bin/git
 [push]
 	default = simple
-[merge]
-	ff = only
 [pager]
 	branch = false
 [pull]
